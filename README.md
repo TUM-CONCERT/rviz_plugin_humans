@@ -16,5 +16,6 @@ Install this project just like any other ros packages
 # Usage
 * start RVIZ by `rviz`
 * within RVIZ, add the topic as you would do usually. 
+![image](https://github.com/TUM-CONCERT/rviz_plugin_humans/assets/120781514/f3ac4888-2991-4e90-93b0-51c0ba637d1e)
 
 * Alternatively, e.g. when no Human topic is published yet, you can press `Add` (1 in the image) then go to the tab `By display type`, select `Humans` and then specify the topic in the left panel.
